@@ -18,7 +18,7 @@ The resulting dataframe consists of the timestamp, open, close, low and high val
 
 ### bitstamp_USD_1H_30062020_26112020.csv
 
-source: https://bitcoincharts.com/charts 
+source: https://bitcoincharts.com/
 This dataset has been made in order to provide a slightly better resolution (hourly) than the one on coinmarketcap.com (daily).  
 Hourly BTC values (USD) from https://www.bitstamp.net between 30/06/2020 and 26/11/2020 (to be updated regularly).  
 Columns:  

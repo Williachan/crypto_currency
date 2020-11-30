@@ -16,7 +16,7 @@ Allow: /
 The data can be retrieved between 29/04/2013 (oldest date available) and now for the daily value of BTC (USD, but this is highly tunable).
 The resulting dataframe consists of the timestamp, open, close, low and high values.
 
-### bitstamp_USD_1H_30062020_26112020.csv
+### bitstamp_USD_1H_30062020_30112020.csv
 
 source: https://bitcoincharts.com/  
 This dataset has been made in order to provide a slightly better resolution (hourly) than the one on coinmarketcap.com (daily).  

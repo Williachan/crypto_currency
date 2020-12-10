@@ -22,7 +22,7 @@ source: https://bitcoincharts.com/
 This dataset has been made in order to provide a slightly better resolution (hourly) than the one on coinmarketcap.com (daily).  
 Hourly BTC values (USD) from https://www.bitstamp.net between 30/06/2020 and 26/11/2020 (to be updated regularly).  
 Columns:  
-__Timestamp:__ YYYY-mm-dd HH:00:00 format.  
+__Timestamp:__ YYYY-mm-dd HH:00:00 format (UTC).  
 __Open:__ First trade price.  
 __High:__  Highest trade price.  
 __Low:__  Lowest trade price.  

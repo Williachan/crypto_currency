@@ -7,7 +7,7 @@ Everything related to crypto currency.
 source: https://coinmarketcap.com/  
 The API (basic plan) from this website does not allow to retrieve historical data.  
 Small notebook (python) script for web-scraping Bitcoin (USD) historical daily data to participate to the challenge "Bitcoin $20K":  
-Predict (three time slots of one hour) when the Bitcoin will hit $20,000 ($10,000 in BTC to Be Won).  
+Predict (three time slots of one hour) when the Bitcoin will hit $20,000 ($10,000 in BTC to Be Won). I have been able to predict the date 16/12/2020 at 7 pm, 5 hours close from the real value (16/12/2020, 2 pm).  
 
 https://coinmarketcap.com/robots.txt  
 User-agent: *  
